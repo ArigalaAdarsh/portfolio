@@ -1,0 +1,19 @@
+<div class="my-4 p-4 bg-white shadow-sm rounded-xl" id="volunteering">
+    <h4 class="border-bottom border-gray pb-2 mb-4 text-center">
+        Volunteering & Community Engagement
+    </h4>
+
+    {% assign volunteering = include.items %}
+    {% for item in volunteering %}
+    <div class="volunteering-item mb-4">
+        <h5 style="  margin-bottom:5px;">{{ item.title }}</h5>
+        <div style="display: flex; justify-content: space-between; margin-bottom:5px;">
+            <p  >{{ item.organization }}</p>
+            <p  >{{ item.duration }}</p>
+        </div>
+        <p style="text-align: justify">
+            {{ item.description }}
+        </p>
+    </div>
+    {% endfor %}
+</div>

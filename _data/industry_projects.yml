@@ -1,0 +1,9 @@
+- title: "Improving Eye Lens Quality Control with AI"
+  company: "Ben Franklin (Eyegear Optics India Private Limited)"
+  funding: "3 Lakh INR"
+  team:
+    - Arigala Adarsh
+    - Sunil Yadav
+    - Gurudarpan Yadav
+  cover: "/assets/images/covers/lens.jpg"
+  description: "Worked on computer vision and deep learning to automate the detection of defective circular eye lenses during manufacturing. The lenses were divided into three zones, and segmentation techniques were used to crop and analyze each zone individually. Developed AI models to identify scratches, cracks, and other imperfections, improving quality control and reducing human error. Successfully deployed the solution in the company’s production plant, enabling real-time defect detection and streamlining the quality assurance process."
