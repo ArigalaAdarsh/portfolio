@@ -9,7 +9,7 @@ images:
 ---
 
 <div class="container my-4">
-  <h2 class="text-center mb-4">SIP Lab@IIT Hyderabad</h2>
+  <h2 class="text-center mb-4">SIP Lab,IIT Hyderabad</h2>
 
   <div class="row">
     {% for img in page.images %}
