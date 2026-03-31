@@ -6,12 +6,12 @@ height: 330px
 date: 2026-03-26
 
 images:
-  - src:  /assets/images/labs/IITM/withHemaMam.jpeg
-  - src:  /assets/images/labs/IITM/withHemaMam2.jpeg 
+  - src:  /assets/images/labs/IITM/IITM1.jpeg
+  - src:  /assets/images/labs/IITM/IITM2.jpeg 
 ---
 
 <div class="container my-4">
-  <h2 class="text-center mb-4">SPRING Lab@IITMadras</h2>
+  <h2 class="text-center mb-4"> SPRING Lab,IIT Madras</h2>
 
   <div class="row">
     {% for img in page.images %}
