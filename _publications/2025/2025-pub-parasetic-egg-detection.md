@@ -2,7 +2,7 @@
 title:          "Parasitic Egg Detection and Classification: An Overview of Recent Progress and New Challenges"
 date:           2025-09-01
 selected:       true
-pub:            "Proceedings of the 24th International Conference on New Trends in Intelligent Software Methodologies, Tools and Techniques SoMeT"
+pub:            "Proceedings of the 24th International Conference on New Trends in Intelligent Software Methodologies, Tools and Techniques (SoMeT)"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Proceedings</span>'
