@@ -2,7 +2,7 @@
 title:          "Multilingual Multi-Speaker Unit Vocoders: A Systematic Analysis of Discrete Speech Representations"
 date:           2026-06-04
 selected:       true
-pub:            "Interspeech 2026"
+pub:            "Interspeech"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Proceedings</span>'
