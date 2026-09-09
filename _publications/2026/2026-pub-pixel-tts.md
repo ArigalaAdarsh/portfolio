@@ -2,9 +2,9 @@
 title:          "Pixel-TTS: Image based Text Rendering for Robust Text-to-Speech"
 date:           2026-07-05
 selected:       true
-pub:            "preprint"
+#pub:            "preprint"
 # pub_pre:        "Submitted to "
-pub_post:       'Under review.'
+pub_post:       "Under review"
 #pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Proceedings</span>'
 pub_date:       "2026"
 semantic_scholar_id: null  # use this to retrieve citation count
