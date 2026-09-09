@@ -17,7 +17,7 @@ authors:
   - Adarsh Arigala
   - S Umesh
 links:
-  #Code: https://github.com/ArigalaAdarsh/Reference-Guided-Targeted-Sound-Detection
+  Code: https://github.com/Naman-kothari-10/UnitBigVGAN
   Paper: https://arxiv.org/abs/2606.06740
 ---
  
