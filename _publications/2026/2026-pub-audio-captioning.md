@@ -2,7 +2,7 @@
 title:          "Enhancing Audio Captioning with Auxiliary AudioSet Semantics"
 date:           2026-06-04
 selected:       true
-pub:            "arXiv"
+pub:            "preprint"
 # pub_pre:        "Submitted to "
 # pub_post:       'Under review.'
 #pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Proceedings</span>'
