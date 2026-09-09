@@ -17,7 +17,7 @@ authors:
   - Srinivasan Umesh
   - Yova Kementchedjhieva
 links:
-  #Code: https://github.com/ArigalaAdarsh/Reference-Guided-Targeted-Sound-Detection
+  Code:  https://github.com/ArigalaAdarsh/Enhancing-AAC-AudioSet-Semantics
   Paper: https://arxiv.org/abs/2606.14750
 ---
  
