@@ -17,7 +17,8 @@ authors:
   - Srinivasan Umesh
   - Yova Kementchedjhieva
 links:
-  Code: https://pixel-tts.github.io/Pixel-TTS-Demo/
   Paper: https://arxiv.org/pdf/2606.14750
+  Demo: https://pixel-tts.github.io/Pixel-TTS-Demo/
+
 ---
  
