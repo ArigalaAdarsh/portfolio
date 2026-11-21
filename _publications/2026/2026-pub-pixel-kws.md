@@ -17,9 +17,9 @@ authors:
   - Srinivasan Umesh 
   - Ludovick Lepauloux
   - Hakim Hacid
-#links:
-  #Code: aa 
-  #Paper: #https://arxiv.org/abs/2606.14750
+links:
+#   Code: https://pixel-tts.github.io/Pixel-TTS-Demo/
+  Paper: https://arxiv.org/pdf/2611.19389v1
 ---
  
  

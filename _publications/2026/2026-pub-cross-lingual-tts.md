@@ -16,8 +16,9 @@ authors:
   - Arjun Gangwar*
   - Srinivasan Umesh
  
-#links:
-  #Code: aa 
-  #Paper: https://arxiv.org/abs/2606.14750
+links:
+  Code:  https://github.com/Cross-Lingual-TTS-for-Indian-Languages/Cross-Lingual-TTS-Indic-Test-Set/
+  Paper: https://aclanthology.org/2026.multilll-1.6.pdf
+  Demo:  https://cross-lingual-tts-for-indian-languages.github.io/Cross-Lingual-TTS-Demo/
 ---
  

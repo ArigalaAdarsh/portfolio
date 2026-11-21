@@ -19,5 +19,6 @@ authors:
 links:
   Code: https://github.com/Naman-kothari-10/UnitBigVGAN
   Paper: https://arxiv.org/abs/2606.06740
+  Demo:  https://naman-kothari-10.github.io/UnitBigVGAN/ 
 ---
  

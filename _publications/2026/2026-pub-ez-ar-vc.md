@@ -22,7 +22,8 @@ authors:
    
 links:
   code: https://github.com/EZ-AR-VC/EZ-AR-VC 
-  #Paper: https://arxiv.org/abs/2606.14750
+  Paper: https://arxiv.org/abs/2611.01268
+  Demo: https://cross-lingual-tts-for-indian-languages.github.io/Cross-Lingual-TTS-Demo/
 ---
  
 
