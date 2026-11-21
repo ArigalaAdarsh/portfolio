@@ -6,6 +6,7 @@ selected:       true
 pub_pre:        "Submitted to AACL-IJCNLP Workshop Multi-LLL"
 #pub_post:       "Under review"
 #pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Proceedings</span>'
+pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Proceedings</span>'
 pub_date:       "2026"
 semantic_scholar_id: null  # use this to retrieve citation count
 # abstract: >-
