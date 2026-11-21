@@ -15,7 +15,7 @@ authors:
   - Naman Kothari
   - Arjun Gangwar
   - Adarsh Arigala
-  - S Umesh
+  - Srinivasan Umesh
 links:
   Code: https://github.com/Naman-kothari-10/UnitBigVGAN
   Paper: https://arxiv.org/abs/2606.06740
